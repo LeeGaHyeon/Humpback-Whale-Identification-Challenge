@@ -1,0 +1,5 @@
+train: C:/Users/user/PycharmProjects/yolov5/whale-categorization-playground/images/train
+val: C:/Users/user/PycharmProjects/yolov5/whale-categorization-playground/images/val
+
+nc: 1 # class 갯수
+names: ['whale']
